@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TpImageHeban</string>
+    <string name="app_content">content:</string>
+    <string name="app_horizontal_mirror">Miroir horizontal</string>
+    <string name="app_vertical_mirror">Miroir vertical</string>
+    <string name="app_inverse_color">Inverser les couleurs</string>
+    <string name="app_transform_in_grey">Transformer en niveau de gris</string>
+    <string name="app_clockwise_direction">Sens horaire</string>
+    <string name="app_anti_clockwise_direction">Sens anti-horaire</string>
+</resources>
